@@ -25,6 +25,12 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 
 ### My recent blog posts
 
+- [A way to cache responses in Grape API](https://dev.to/haukot/easy-response-caching-for-grape-api-5324)
+- [How to fix a segfault in Ruby](https://dev.to/haukot/how-to-fix-a-segfault-in-ruby-3584)
+- [How to use rbtrace from outside of docker container](https://dev.to/haukot/how-to-use-rbtracer-from-outside-of-docker-container-kdf)
+- [Base test profiling inside docker with test-prof](https://dev.to/haukot/base-test-profiling-inside-docker-with-test-prof-9d4)
+- [Is ActiveRecord right in omitting parentheses in queries? (and how ChatGPT lies again)](https://dev.to/haukot/is-activerecord-right-in-omitting-parentheses-in-queries-and-how-chatgpt-lies-again-2dao)
+
 ### How to reach me
 
 Email: haudvd@gmail.com\
