@@ -26,7 +26,8 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 ### My recent blog posts
 
 ### How to reach me
-Email: haudvd@gmail.com
+
+Email: haudvd@gmail.com\
 Telegram: @haukot 
 
 <!--
