@@ -6,7 +6,7 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 
 ### 🚧 My personal projects
 
-- [Obsidian Chatlike](https://github.com/haukot/obsidian-chatlike) - A plugin for my knowledge database.
+- [Obsidian Chatlike](https://github.com/haukot/obsidian-chatlike) - A thinking plugin for my knowledge database.
 - [Dead-Eye-Jump](https://github.com/haukot/dead-eye-jump) - A different look on plugins like EasyMotion.
 - [MIDI Keyboard](https://github.com/haukot/midi_keyboard) - WIP on MIDI MPE keyboard based on magnetic Hall sensors.
 - [Book Reader](https://github.com/haukot/english_reader) - My reader for English books, with dictionary and translations.
