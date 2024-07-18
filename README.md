@@ -2,7 +2,7 @@
 
 I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 
-### My personal projects
+### 🚧 My personal projects
 
 - [Obsidian Chatlike](https://github.com/haukot/obsidian-chatlike) - A plugin for my knowledge database.
 - [Dead-Eye-Jump](https://github.com/haukot/dead-eye-jump) - A different look on plugins like EasyMotion.
@@ -10,8 +10,7 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 - [Book Reader](https://github.com/haukot/english_reader) - My reader for English books, with dictionary and translations.
 - [Github Copilot Specifications](https://github.com/haukot/copilot_specifications) - Unofficial documentation of Copilot's inner API. Also a bit of related hackery: [Auth example](https://github.com/haukot/copilot_auth_example), [Using VSCode plugin in another editors](https://github.com/haukot/copilot_labs_plugin_base)
 
-### My recent Pull Requests
-![pull request](./assets/open_pr.svg)
+### ![pull request](./assets/open_pr.svg)  My recent Pull Requests
 - [[Bug #20592] Fix segfault when sending NULL to freeaddrinfo](https://github.com/ruby/ruby/pull/11045) on [ruby/ruby](https://github.com/ruby/ruby/)
 - [main/ruby: remove fix for s390x](https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/68498) on [alpine/aports](https://gitlab.alpinelinux.org/alpine/aports)
 - [Clarification for InlineValue request](https://github.com/microsoft/language-server-protocol/pull/1982) on [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol/)
@@ -32,7 +31,7 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 - [Base test profiling inside docker with test-prof](https://dev.to/haukot/base-test-profiling-inside-docker-with-test-prof-9d4)
 - [Is ActiveRecord right in omitting parentheses in queries? (and how ChatGPT lies again)](https://dev.to/haukot/is-activerecord-right-in-omitting-parentheses-in-queries-and-how-chatgpt-lies-again-2dao)
 
-### How to reach me
+### ✉️ How to reach me
 
 Email: haudvd@gmail.com\
 Telegram: @haukot 
