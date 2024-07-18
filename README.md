@@ -10,7 +10,7 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 - [Book Reader](https://github.com/haukot/english_reader) - My reader for English books, with dictionary and translations.
 - [Github Copilot Specifications](https://github.com/haukot/copilot_specifications) - Unofficial documentation of Copilot's inner API. Also a bit of related hackery: [Auth example](https://github.com/haukot/copilot_auth_example), [Using VSCode plugin in another editors](https://github.com/haukot/copilot_labs_plugin_base)
 
-### ![pull request](./assets/open_pr.svg)  My recent Pull Requests
+### ![pull request](./assets/open_pr.svg) &nbsp;My recent Pull Requests
 - [[Bug #20592] Fix segfault when sending NULL to freeaddrinfo](https://github.com/ruby/ruby/pull/11045) on [ruby/ruby](https://github.com/ruby/ruby/)
 - [main/ruby: remove fix for s390x](https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/68498) on [alpine/aports](https://gitlab.alpinelinux.org/alpine/aports)
 - [Clarification for InlineValue request](https://github.com/microsoft/language-server-protocol/pull/1982) on [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol/)
