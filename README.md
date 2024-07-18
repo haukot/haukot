@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-I'm Dmitry Davydov. I'm a software engineer and a cat lover.
+I'm Dmitry Davydov. I'm a software engineer and a cat 😾 lover.
+Mostly use Ruby on Rails and JavaScript(Vue, React), and have also touched Rust, Go, Elixir, etc.
 
 ---
 
 ### 🚧 My personal projects
 
 - [Obsidian Chatlike](https://github.com/haukot/obsidian-chatlike) - A thinking plugin for my knowledge database.
-- [Dead-Eye-Jump](https://github.com/haukot/dead-eye-jump) - A different look on plugins like EasyMotion.
-- [MIDI Keyboard](https://github.com/haukot/midi_keyboard) - WIP on MIDI MPE keyboard based on magnetic Hall sensors.
+- [Dead-Eye-Jump](https://github.com/haukot/dead-eye-jump) - A different take on plugins like EasyMotion.
+- [MIDI Keyboard](https://github.com/haukot/midi_keyboard) - WIP on a MIDI MPE keyboard based on magnetic Hall sensors.
 - [Book Reader](https://github.com/haukot/english_reader) - My reader for English books, with dictionary and translations.
 - [Github Copilot Specifications](https://github.com/haukot/copilot_specifications) - Unofficial documentation of Copilot's inner API. Also a bit of related hackery: [Auth example](https://github.com/haukot/copilot_auth_example), [Using VSCode plugin in another editors](https://github.com/haukot/copilot_labs_plugin_base)
 
