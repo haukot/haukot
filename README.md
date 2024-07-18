@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Dmitry Davydov. I'm a software engineer and a cat 😾 lover.\
-Mostly use Ruby on Rails with JavaScript(Vue, React), and have also touched Rust, Go, Elixir, etc.
+Mostly use Ruby on Rails with JavaScript(Vue, React), and have also touched Go, Python, Erlang, etc.
 
 ---
 
