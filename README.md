@@ -2,6 +2,8 @@
 
 I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 
+---
+
 ### 🚧 My personal projects
 
 - [Obsidian Chatlike](https://github.com/haukot/obsidian-chatlike) - A plugin for my knowledge database.
@@ -9,6 +11,8 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 - [MIDI Keyboard](https://github.com/haukot/midi_keyboard) - WIP on MIDI MPE keyboard based on magnetic Hall sensors.
 - [Book Reader](https://github.com/haukot/english_reader) - My reader for English books, with dictionary and translations.
 - [Github Copilot Specifications](https://github.com/haukot/copilot_specifications) - Unofficial documentation of Copilot's inner API. Also a bit of related hackery: [Auth example](https://github.com/haukot/copilot_auth_example), [Using VSCode plugin in another editors](https://github.com/haukot/copilot_labs_plugin_base)
+
+---
 
 ### &nbsp;&nbsp;![pull request](./assets/open_pr.svg) My recent Pull Requests
 - [[Bug #20592] Fix segfault when sending NULL to freeaddrinfo](https://github.com/ruby/ruby/pull/11045) on [ruby/ruby](https://github.com/ruby/ruby/)
@@ -22,6 +26,7 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 - [Enable workspace capabilities](https://github.com/copilot-emacs/copilot.el/pull/146) on [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el/)
 - [Add more major-mode -> language mappings ](https://github.com/copilot-emacs/copilot.el/pull/147) on [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el)
 
+---
 
 ### 📖 My recent blog posts
 
@@ -30,6 +35,8 @@ I'm Dmitry Davydov. I'm a software engineer and a cat lover.
 - [How to use rbtrace from outside of docker container](https://dev.to/haukot/how-to-use-rbtracer-from-outside-of-docker-container-kdf)
 - [Base test profiling inside docker with test-prof](https://dev.to/haukot/base-test-profiling-inside-docker-with-test-prof-9d4)
 - [Is ActiveRecord right in omitting parentheses in queries? (and how ChatGPT lies again)](https://dev.to/haukot/is-activerecord-right-in-omitting-parentheses-in-queries-and-how-chatgpt-lies-again-2dao)
+
+---
 
 ### ✉️ How to reach me
 
