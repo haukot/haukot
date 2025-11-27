@@ -11,7 +11,7 @@ Mostly use Ruby on Rails with JavaScript(Vue, React), and have also touched Go, 
 - [Dead-Eye-Jump](https://github.com/haukot/dead-eye-jump) - A different take on plugins like EasyMotion.
 - [MIDI Keyboard](https://github.com/haukot/midi_keyboard) - WIP on a MIDI MPE keyboard based on magnetic Hall sensors.
 - [Book Reader](https://github.com/haukot/english_reader) - My reader for English books, with dictionary and translations.
-- [Github Copilot Specifications](https://github.com/haukot/copilot_specifications) - Unofficial documentation of Copilot's inner API. Also a bit of related hackery: [Auth example](https://github.com/haukot/copilot_auth_example), [Using VSCode plugin in another editors](https://github.com/haukot/copilot_labs_plugin_base)
+- [Github Copilot Specifications](https://github.com/haukot/copilot_specifications) - Unofficial documentation of Copilot's internal API. Also a bit of related hackery: [Auth example](https://github.com/haukot/copilot_auth_example), [Using VSCode plugin in another editors](https://github.com/haukot/copilot_labs_plugin_base)
 
 ---
 
