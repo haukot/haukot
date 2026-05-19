@@ -16,8 +16,7 @@ Mostly use Ruby on Rails with JavaScript(Vue, React), and have also touched Go, 
 ---
 
 ### &nbsp;&nbsp;![pull request](./assets/open_pr.svg) My recent Pull Requests
-- [Add Math.log1p and Math.expm1](https://github.com/truffleruby/truffleruby/pull/4255) on [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby)
-- [IO.select accepts Float::INFINITY as a timeout argument](https://github.com/truffleruby/truffleruby/pull/4252) on [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby)
+- Ruby 4.0 support: [#4255](https://github.com/truffleruby/truffleruby/pull/4255), [#4254](https://github.com/truffleruby/truffleruby/pull/4254), [#4252](https://github.com/truffleruby/truffleruby/pull/4252) on [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby)
 - [[Bug #20592] Fix segfault when sending NULL to freeaddrinfo](https://github.com/ruby/ruby/pull/11045) on [ruby/ruby](https://github.com/ruby/ruby/)
 - [main/ruby: remove fix for s390x](https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/68498) on [alpine/aports](https://gitlab.alpinelinux.org/alpine/aports)
 - [Clarification for InlineValue request](https://github.com/microsoft/language-server-protocol/pull/1982) on [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol/)
